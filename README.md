@@ -1,5 +1,7 @@
 # go-http3
 
+[go-http3](https://github.com/udhos/go-http3) shows how to serve both HTTP3 and HTTP2 and how to make the client to use HTTP3 when available and fallback to HTTP2 when not.
+
 # Build
 
 ```bash
